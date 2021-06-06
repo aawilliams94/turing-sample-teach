@@ -33,16 +33,21 @@ print ("Welcome to Try Coding, \(firstName)!")
 
 firstName = "Malik"
 print ("Welcome to Try Coding, \(firstName)!")
+
+var favoriteNumber = 13
+print(favoriteNumber)
 ```
 
 ### Try It: Exploring Reassigning Variables
 >Read the code above and predict what will happen when it is run. Try to explain why.
 >
 >Now type the code into your replit and run it. Does it verify or falsify your prediction?
+>
+>Try creating your own variables.
 
 
 ## Variables vs Constants
-So far we have only seen variables, denoted with `var`. In swift there are also constants. Below is a code block and in an effort to promote learning through exploration, we will not be describing exactly what it does.
+So far we have only seen variables, denoted with `var`. As we have seen, variables are used to store information for our code!  In swift there are also constants. Below is a code block and in an effort to promote learning through exploration, we will not be describing exactly what it does.
 
 ```swift
 let firstName = Carlos
