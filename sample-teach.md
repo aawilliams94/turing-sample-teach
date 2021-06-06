@@ -50,8 +50,8 @@ print(favoriteNumber)
 So far we have only seen variables, denoted with `var`. As we have seen, variables are used to store information for our code!  In swift there are also constants. Below is a code block and in an effort to promote learning through exploration, we will not be describing exactly what it does.
 
 ```swift
-let firstName = Carlos
-firstName = Sandra
+let firstName = "Carlos"
+firstName = "Sandra"
 
 print(firstName)
 ```
