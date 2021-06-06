@@ -43,7 +43,7 @@ print(favoriteNumber)
 >
 >Now type the code into your replit and run it. Does it verify or falsify your prediction?
 >
->Try creating your own variables.
+>Try creating your own variables for your favorite number and your current location.
 
 
 ## Variables vs Constants
